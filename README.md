@@ -1,7 +1,7 @@
 # test-project
 A Test Project
 
-1 - First commit
+1 - First commit (Branch 3 edit)
 
 2 - Branch 1 - Commit 1
 
